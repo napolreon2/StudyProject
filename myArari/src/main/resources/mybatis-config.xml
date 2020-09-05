@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0/EN" "http://mybatis.org/dtd/mybatis-3-config.dtd" >
+<configuration>
+	<typeAliases>
+		<!-- VO / DTO 객체의 풀네임을 대신 사용할 별칭 선언 -->
+		
+		
+	</typeAliases>
+	
+	<!-- <typeHandlers>
+		해당패키지의 모든 TypeHandler구현클래스를 등록함
+		<package name="com.kh.spring.common.typehandler"/>
+	</typeHandlers>
+ -->
+
+ 
+
+ </configuration>
